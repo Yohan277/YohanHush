@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi, I'm Yohan 👋</h1>
+<h1 align="center">I'm Yohan 👋</h1>
 
 <h3 align="center">BSIT Student | Aspiring Developer</h3>
 
